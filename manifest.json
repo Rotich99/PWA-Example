@@ -1,0 +1,23 @@
+{
+    "short_name": "MY-PWA",
+    "name": "PROGRESSIVE WEB APPLICATION",
+    "icons": [
+      {
+        "src": "assets/192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose":"any"
+      },
+      {
+        "src": "assets/icon.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose":"maskable"
+      }
+    ],
+    "start_url": "/",
+    "scope": "/",
+    "background_color": "#ff0080",
+    "display": "standalone",
+    "theme_color": "#99004d"
+  }
